@@ -11,6 +11,9 @@ public class TestCodeNavigation : MonoBehaviour
         TestMethod2();
     }
 
+    /// <summary>
+    /// Test 2
+    /// </summary>
     public void TestMethod2()
     {
         var inputDevice = InputSystem.GetDevice("Keyboard");
