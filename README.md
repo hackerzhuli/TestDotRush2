@@ -13,7 +13,7 @@ For a method from a package(normal package, not embedded), when I click on menu 
 
 For an embbeded package, it goes to the source file.
 
-### C# Dev Kit
+### C# Dev Kit(in VS Code)
 For a normal package, it does go to a decompiled source file.
 
 For an embedded package, it goes to the source file.
