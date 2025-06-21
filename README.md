@@ -5,7 +5,7 @@ This project tests Dot Rush for Code Navigation in Unity, specifically code navi
 
 When we install a package with Package Manager in Unity, it will stay in Library/PackageCache.
 
-That is not the same as embedded package, which is in Packages directory.
+That different for an embedded package, which is in Packages directory.
 
 ## My Observation
 ### Dot Rush
